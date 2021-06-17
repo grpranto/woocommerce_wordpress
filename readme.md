@@ -1,16 +1,33 @@
-<h2>WordPress Porfolio Website</h2>
+<h2>WordPress WooCommerce Website</h2>
+<br>
+<h1>Some screenshots</h1>
 <br>
 <p><b>1. Header Section</b></p>
-<img src="screenshots/1.JPG">
+<img src="screenshots/header.JPG">
 <br>
-<p><b>2. Skill Section</b></p>
-<img src="screenshots/2.JPG">
+<p><b>2. Featured Categories Section</b></p>
+<img src="screenshots/featured_categories.JPG">
 <br>
-<p><b>3. Publication Section<b></p>
-<img src="screenshots/3.JPG">
+<p><b>3. Top Interesting Section<b></p>
+<img src="screenshots/top_interesting.JPG">
 <br>
-<p><b>4. Project Section</b></p>
-<img src="screenshots/4.JPG">
+<p><b>4. Products filtering by color and size</b></p>
+<img src="screenshots/products filtering.JPG">
+<br>
+<p><b>4. Order Tracking Section</b></p>
+<img src="screenshots/order_tracking.JPG">
+<br>
+<p><b>4. Cart Section</b></p>
+<img src="screenshots/cart_section.JPG">
+<br>
+<p><b>4. Place Order Section</b></p>
+<img src="screenshots/Place_order.JPG">
+<br>
+<p><b>4. Footer Section</b></p>
+<img src="screenshots/footer.JPG">
+<br>
+<p><b>4. Woocommerce Dashboard Section</b></p>
+<img src="screenshots/woocommerce_dashboard.JPG">
 <br>
 
 
