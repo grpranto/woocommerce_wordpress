@@ -14,19 +14,19 @@
 <p><b>4. Products filtering by color and size</b></p>
 <img src="screenshots/products filtering.JPG">
 <br>
-<p><b>4. Order Tracking Section</b></p>
+<p><b>5. Order Tracking Section</b></p>
 <img src="screenshots/order_tracking.JPG">
 <br>
-<p><b>4. Cart Section</b></p>
+<p><b>6. Cart Section</b></p>
 <img src="screenshots/cart_section.JPG">
 <br>
-<p><b>4. Place Order Section</b></p>
+<p><b>7. Place Order Section</b></p>
 <img src="screenshots/Place_order.JPG">
 <br>
-<p><b>4. Footer Section</b></p>
+<p><b>8. Footer Section</b></p>
 <img src="screenshots/footer.JPG">
 <br>
-<p><b>4. Woocommerce Dashboard Section</b></p>
+<p><b>9. Woocommerce Dashboard Section</b></p>
 <img src="screenshots/woocommerce_dashboard.JPG">
 <br>
 
