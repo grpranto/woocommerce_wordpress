@@ -1,6 +1,6 @@
 <h2>WordPress WooCommerce Website</h2>
 <br>
-<h1>Some screenshots</h1>
+<h3>Some screenshots</h3>
 <br>
 <p><b>1. Header Section</b></p>
 <img src="screenshots/header.JPG">
